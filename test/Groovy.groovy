@@ -1,3 +1,5 @@
+//Вычисление калибровочного преобразования для перехода из произвольной калибровки в Лоренцеву
+
 @Grab(group = 'cc.redberry', module = 'groovy', version = '1.1.11-SNAPSHOT')
 import cc.redberry.groovy.Redberry
 
